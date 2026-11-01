@@ -1,0 +1,8 @@
+{
+  "name": "Remix STE Aviador",
+  "description": "Juego de entrenamiento e inglés técnico aeronáutico para mecánicos de aviación (TMA/LMA), con 30 niveles, Diccionario Dixie y 10 Módulos AMM/ATA con 1,700 oraciones técnicas y 24 Plays de lectura técnica con audio normal y lento basados en manuales de mantenimiento Cessna 150/172/210/208, squawks de hangar y reglas oficiales ASD-STE100.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
